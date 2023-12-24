@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Aviro Web Services",
+    "description": "Plan Safe Routes",
+    "image": "/projectImages/bike1.jpg",
+    "image2": "/projectImages/project1.jpg",
+    "image3": "/projectImages/routes3.png",
+    "body": "We designed and built a Full Stack Web Application for managing orders and products in solar plants and EV charging stations, ensuring seamless customer interaction and order monitoring. Leveraging Java 17, Spring Boot, JWT authentication, and Spring Data JPA for optimal performance and security, our dynamic front-end is crafted with React.js, Axios, and Bootstrap, showcasing our full-stack development expertise in the solar energy and EV sectors.",
+    "technologies": ["Java", "SpringBoot", "ReactJs", "MYSQL"],
+    "github": "https://github.com/Mukund15k/CDAC-Project",
+    "deployed": "https://github.com/Mukund15k/CDAC-Project",
+    "bgcolor": "Aqua",
+    "id": "1"
+  },
+  {
+    "title": "Amazon Clone",
+    "description": "Plan Safe Routes",
+    "image": "/projectImages/bike1.jpg",
+    "image2": "/projectImages/project1.jpg",
+    "image3": "/projectImages/routes3.png",
+    "body": "We designed and built a Full Stack Web Application for managing orders and products in solar plants and EV charging stations, ensuring seamless customer interaction and order monitoring. Leveraging Java 17, Spring Boot, JWT authentication, and Spring Data JPA for optimal performance and security, our dynamic front-end is crafted with React.js, Axios, and Bootstrap, showcasing our full-stack development expertise in the solar energy and EV sectors.",
+    "technologies": ["Java", "SpringBoot", "ReactJs", "MYSQL"],
+    "github": "https://github.com/Mukund15k/CDAC-Project",
+    "deployed": "https://github.com/Mukund15k/CDAC-Project",
+    "bgcolor": "Aqua",
+    "id": "2"
+  },
+  {
+    "title": "Chat App",
+    "description": "Plan Safe Routes",
+    "image": "/projectImages/bike1.jpg",
+    "image2": "/projectImages/project1.jpg",
+    "image3": "/projectImages/routes3.png",
+    "body": "We designed and built a Full Stack Web Application for managing orders and products in solar plants and EV charging stations, ensuring seamless customer interaction and order monitoring. Leveraging Java 17, Spring Boot, JWT authentication, and Spring Data JPA for optimal performance and security, our dynamic front-end is crafted with React.js, Axios, and Bootstrap, showcasing our full-stack development expertise in the solar energy and EV sectors.",
+    "technologies": ["Java", "SpringBoot", "ReactJs", "MYSQL"],
+    "github": "https://github.com/Mukund15k/CDAC-Project",
+    "deployed": "https://github.com/Mukund15k/CDAC-Project",
+    "bgcolor": "Aqua",
+    "id": "3"
+  }
+
+  
+]
