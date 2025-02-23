@@ -38,7 +38,7 @@ function App() {
 
     const handleTabChange = () => {
       if (document.hidden) {
-        document.title = "👋🏻 Look At Me";
+        document.title = "👋🏻 Mukund's Portfolio";
       } else {
         document.title = originalTitle;
       }
