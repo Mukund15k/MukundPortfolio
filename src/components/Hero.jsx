@@ -65,13 +65,13 @@ const Hero = ({ name }) => {
               cursor: "",
             }}
             onInit={(typewriter) => {
-              typewriter.changeDelay(50).typeString("Full Stack Engineer").start();
+              typewriter.changeDelay(50).typeString("Full Stack Developer").start();
             }}
           />
         </motion.div>
       </div>
       {/* Animated landing image */}
-      <div className="image-container">
+      {/* <div className="image-container">
         <motion.img
           className="landingImage"
           initial={{ opacity: 0 }}
@@ -79,9 +79,9 @@ const Hero = ({ name }) => {
           transition={{ delay: 1, duration: 1.5, ease: "easeInOut" }}
           style={styles.landingImage}
           src={landingImage}
-          alt="Michael Yeates"
+          alt="Mukund Kale"
         />
-      </div>
+      </div> */}
       {/* Displaying social icons */}
       <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, ease: "easeInOut" }}>
         <SocialIcons />
