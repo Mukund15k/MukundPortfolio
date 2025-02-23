@@ -71,7 +71,7 @@ const Hero = ({ name }) => {
         </motion.div>
       </div>
       {/* Animated landing image */}
-      {/* <div className="image-container">
+      <div className="image-container">
         <motion.img
           className="landingImage"
           initial={{ opacity: 0 }}
@@ -81,7 +81,7 @@ const Hero = ({ name }) => {
           src={landingImage}
           alt="Mukund Kale"
         />
-      </div> */}
+      </div>
       {/* Displaying social icons */}
       <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, ease: "easeInOut" }}>
         <SocialIcons />
